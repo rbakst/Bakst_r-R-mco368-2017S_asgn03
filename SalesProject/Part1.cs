@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SalesProject
 {
-    class Part2
+    class Part1
     {
         public static void Main(String[] args)
         {
